@@ -41,7 +41,6 @@ font-size: 1.5rem;
   background-color: #e4f9f5;
   position: relative;
   padding-top: 100px;
-  height: 1000px;
 }
 
 .pro{
@@ -56,10 +55,6 @@ font-size: 1.5rem;
   position: absolute;
   left: 300px;
   bottom: 300px;
-}
-
-.mountain{
-  margin-top: 314px;
 }
 
 .footer-link{
